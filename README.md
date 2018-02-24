@@ -16,4 +16,4 @@ Code for the MIS Club Blockchain REST Service workshop on February 23rd, 2018. C
 [Video](https://youtu.be/-CKHQvRDYHI)
 
 **Credit**
-This code was adapted from the following article which uses Python: [article](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+- This code was adapted from the following article which uses Python: [article](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
