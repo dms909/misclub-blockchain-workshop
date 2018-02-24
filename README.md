@@ -10,6 +10,7 @@ Code for the MIS Club Blockchain REST Service workshop on February 23rd, 2018. C
 
 ## Final Version
 [Glitch](https://isu-misclub-blockchain-workshop.glitch.me)
+[Remix](https://glitch.com/edit/#!/remix/isu-misclub-blockchain-workshop)
 
 ## Credit
 This code was adapted from the following article which uses Python: [article](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
