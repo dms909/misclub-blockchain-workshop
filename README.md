@@ -1,6 +1,9 @@
 # misclub-blockchain-workshop
 Code for the MIS Club Blockchain REST Service workshop on February 23rd, 2018. Co-hosted with HackISU.
 
+## PowerPoint Slides
+[Presentation](https://drive.google.com/open?id=11Ynb3jy-_yQUUjoHVvjWr1a91m3YKtji)
+
 ## Postman
 [Download Postman](http://bit.ly/misclub-postman)
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/f779cbac58d910a0ae3c)
